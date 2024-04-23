@@ -1,0 +1,177 @@
+name: Daniel Hamelberg
+email: danielhamelberg@linux.com
+phone: +31 6 54701648
+address: Vurehout 397, 1507 EC, Zaanstad
+languages: Dutch, English, German
+maritalStatus: Married
+birthDate: 15-08-1981
+drivingLicense: B
+linkedin: linkedin.com/in/danielhamelberg
+github: github.com/danielhamelberg
+summary: "Passionate technologist with a proven track record of transforming cloud environments, championing DevOps practices, safeguarding systems, and leveraging AI innovations since their early stages. Skilled in driving cost-saving optimizations, delivering secure CI/CD pipelines (SOC2 compliance), and streamlining complex operations. Adept in Cloud Computing, Kubernetes, GitOps, Python, Go, IaC, and advanced AI/ML (PyTorch, TensorFlow, BERT, HuggingFace, OpenAI Assistants, prompt engineering). Experienced in Site Reliability Engineering (SRE) principles, with expertise in implementing and maintaining high-performance and scalable systems. Interested in AI Enablement and (Technical) Product Management, with a focus on leveraging AI technologies to drive innovation and deliver impactful solutions."
+experience:
+  - title: Site Reliability Engineer (Continuous Delivery)
+    company: Mambu
+    location: Amsterdam
+    date: "Nov 2021 - Sep 2023"
+    duration: 1 year 11 months
+    highlights:
+      - "Cloud & DevOps Transformation: Led the implementation of GitOps-based CD at Mambu, achieving $200K in annual cost savings through AWS Karpenter optimization, autoscaling, and pipeline enhancements."
+      - "Security & Automation Champion: Conceptualized and integrated security measures (Argo CD, Okta, OIDC) to elevate CI/CD security and ensure SOC2 compliance across multiple cloud environments (EKS, AKS, GKE)."
+      - "Process Optimization Leader: Developed and championed human-free, automated release processes, streamlining internal tooling and establishing robust deployment support systems."
+      - "Technical Expertise: Harnessed a diverse tech stack (GitLab, Kubernetes, Python, Go, Java) to enhance development, deployment, operational efficiency, and software quality."
+  - title: Site Reliability Engineer, Lead Deployment Engineer
+    company: Ohpen
+    location: Amsterdam
+    date: "Mar 2019 - Jul 2021"
+    duration: 2 years 5 months
+    highlights:
+      - "Project Accomplishments: Led deployments and maintained release cycle of a high-secure, AWS-native banking platform for major clients, including De Volksbank, Robeco, and Nationale Nederlanden. Implemented operational efficiency initiatives using automation tools (Python, Shell scripting, etc.) to reduce incidents and achieve a 65% efficiency gain in 2020. Led the successful migration and alignment of state monitoring systems within the infrastructure and software development lifecycle. Ownership of monthly Trend Analysis (slope) & Reporting of release deployment KPIs to the board."
+      - "Technical Expertise: Designed and deployed complex, distributed systems on AWS, leveraging CloudFormation and Terraform for secure, compliant infrastructure. Built and maintained robust CI/CD pipelines (Jenkins, Bitbucket) and containerization strategies (Docker). Mastered infrastructure-as-code (Chef Automate, Terraform) to ensure scalable, version-controlled environments."
+  - title: Business Owner and Senior Solutions Architect
+    company: Management Dale
+    location: Randstad
+    date: "Oct 2016 - Mar 2019"
+    duration: 2 years 6 months
+    highlights:
+      - "Process Optimization: Streamlined operational procedures by implementing a lean-agile test strategy, issue tracking, and stakeholder prioritization, resulting in a 30% workload reduction."
+      - "Innovative Problem Solving: Drove process improvement initiatives, identifying risk areas and independently designing and developing web applications to automate tasks within pharmaceutical and real estate industries."
+      - "Technical Leadership & Collaboration: Collaborated with development teams to coordinate upgrades and support activities for automation systems, ensuring business continuity and software longevity."
+      - "Project Management: Successfully managed over 10 small to mid-size programming projects, demonstrating in-depth technical knowledge and expertise in technical project management."
+  - title: DevOps Engineer
+    company: Utilize Business Solutions BV
+    location: Amersfoort
+    date: "2016 - 2019"
+    duration: 3 years
+    highlights:
+      - "Project Leadership & DevOps: Led cross-functional monitoring implementation in 2017, fostering DevOps collaboration. Proactive problem-solver driving .NET Core observability, cutting incident response times by 35%."
+      - "Technical Optimization & Training: Streamlined technical processes to empower .NET developers in root-cause analysis (RCA). Expertise in performance monitoring and infrastructure optimization for complex systems."
+  - title: Senior Solutions Architect, Software Engineer
+    company: Aurobindo Benelux
+    location: Leiden, Amsterdam
+    date: "Jun 2017 - Dec 2018"
+    duration: 1 year 7 months
+    highlights:
+      - "Focus on Project Leadership & Innovation: Led successful web application development for major pharmaceutical client (Aurobindo, Apotex). Designed innovative solution, attracting an acquisition offer. Identified and executed process improvements with measurable results."
+      - "Technical Expertise & Operational Efficiency: Built scalable systems, reducing manual effort by 70%. Championed automation and issue tracking, achieving perfect user experience ratings. Utilized technical skills to design solutions for complex business processes."
+  - title: Business Owner, Senior Solutions Architect
+    company: iFresco
+    location: Amsterdam
+    date: "Jan 2012 - Sep 2018"
+    duration: 6 years 9 months
+    highlights:
+      - "Proposal Success: Authored 33 professional services proposals with a 99.1% approval rate, securing high-value projects for clients like CBRE Global Investors, VBO Makelaar, and SOS Kinderdorpen."
+      - "Cloud Migration Leader: Managed 40+ IT migration projects to AWS, completing all stages on time and under budget while prioritizing data integrity."
+  - title: Senior Solutions Architect, Software Engineer
+    company: Huurcheck & Verkoopcheck
+    location: Utrecht
+    date: "Jan 2016 - Mar 2018"
+    duration: 2 years 3 months
+    highlights:
+      - "Spearheaded the creation of a comprehensive Rental Agreement Builder & eSignature application, reaching 150+ daily users and 1100+ legally binding agreements in its first year."
+      - "Focused on automation, UX, and regulatory compliance (UETA/ESIGN/GDPR), simplifying the agreement process for tenants and landlords."
+      - "Led software development lifecycle, collaborated with 3+ teams for successful integration, and maintained 100% testing accuracy."
+      - "Managed stakeholder interactions, effectively communicating technical concepts to ensure project alignment and transparency."
+  - title: Business Owner, Software Developer
+    company: Whysr
+    location: Amsterdam
+    date: "Jan 2015 - Sep 2017"
+    duration: 2 years 9 months
+    highlights:
+      - "Project Leadership: Developed Whysr, a SaaS marketing tracking tool with REST API architecture to improve marketing ROI analysis."
+      - "Feature & Tools Development: Created core features for automating multi-channel campaign tracking, dynamic UTM generation, and a URL creation Chrome add-on."
+      - "Technical Expertise: Proficiency in Laravel, JavaScript, and UTM tracking techniques for a robust marketing analytics solution."
+  - title: System Architect, Senior System Engineer
+    company: SOMO (Stichting Onderzoek Multinationale Ondernemingen)
+    location: Amsterdam
+    date: "Jan 2008 - Jun 2017"
+    duration: 9 years 9 months
+    highlights:
+      - "Systems Architecture & Reliability: Achieved 99.8% system availability, resolving issues across network infrastructure, systems, and applications."
+      - "Infrastructure Transformation: Overhauled the infrastructure and virtualization in 2015, earning promotion to Systems Architect."
+      - "Performance Optimization: Enhanced Pluriform application delivery, increasing performance by 320% and outperforming the original software vendor."
+      - "Self-Driven Problem-Solver: Showcased effective prioritization, time management, and independent working capability."
+  - title: System Engineer
+    company: Both ENDS Foundation, Wemos Foundation
+    location: Amsterdam
+    date: "Feb 2008 - May 2012"
+    duration: 4 years 4 months
+  - title: System Engineer
+    company: Divider B.V.
+    location: Rotterdam, Leiden
+    date: "Aug 2004 - Jan 2008"
+    duration: 3 year 7 months
+    highlights:
+      - "Infrastructure & Security Specialist: Built and maintained Linux/Windows infrastructure, Remote Desktop and Oracle SGD."
+      - "Network Security: Managed Juniper Netscreen firewalls in high-availability setups."
+      - "Client-Facing Technologist: Delivered on-site infrastructure support, dealing with connectivity, VPNs, and data migration."
+      - "International Deployment Experience: Deployed Oracle SGD solutions in the Netherlands and the UK."
+  - title: International Sales Consultant
+    company: Visma
+    location: Amsterdam
+    date: "Sep 2000 - Jun 2004"
+    duration: 3 years 10 months
+    highlights:
+      - "Sales consultant for VAR partners in the UK and Germany."
+      - "Delivered sales seminars internationally."
+      - "Represented the company at Hannover CeBIT trade show."
+education:
+    - degree: Bachelor
+      major: Project Management
+      school: NCOI Opleidingen
+      date: Sep 2012 - Sep 2013
+    - degree: Data Science Fundamentals CoP
+      major: Data Science Summer School
+      school: Hertie School
+      date: August - August, 2023
+certifications:
+    - name: Projectmanager
+      issuer: NCOI Opleidingen
+    - name: AWS Certified Solutions Architect Associate
+      issuer: Amazon Web Services (AWS)
+      date: Sep 2019 - Sep 2022
+      credential: FRZYDJH1GF1417SQ
+skills:
+    - System Performance
+    - Cloud Computing
+    - Linux
+    - Python
+    - Go
+    - Analytical Skills
+    - Kubernetes
+    - Continuous Integration and Continuous Delivery (CI/CD)
+    - Infrastructure as code (IaC)
+    - Artificial Intelligence (AI)
+awards:
+    - title: AI Document Processing with Neural Nets Award
+      company: Ohpen
+      date: Dec 2020
+      highlights:
+          - "Awarded top honors in Ohpen's AI Document Processing contest for exceptional optimization
+            of a neural network for financial document extraction."
+          - Tuning hyperparameters for enhanced performance.
+          - Data-driven iterations and validation-set monitoring to prevent overfitting.
+leisure:
+    - title: Hiking
+    - title: Gemology
+    - title: Home Improvement
+    - title: Traveling
+    - title: AI/ML Research
+    - title: Prompt Engineering
+config:
+    personal_layout: 2-column
+    summary_layout: 1-column
+    experience_layout: 2-column
+    education_layout: 2-column
+    skills_layout: 3-column
+    awards_layout: 2-column
+    hobbies_layout: 3-column
+    margins_optimized_for_least_pages: true
+    font: Arial
+    heading_font: Georgia
+    font_size: 12
+    heading_font_size: 16
+    line_spacing: 1.15
+    paragraph_spacing_after: 6
+    primary_color: '003082'
+    secondary_color: '006400'
